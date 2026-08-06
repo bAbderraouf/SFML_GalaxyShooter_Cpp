@@ -9,7 +9,7 @@ The player controls a spaceship that can move horizontally and shoot at enemies 
 ---
 
 # 📷 Screenshot
-![ChessGame Screenshot](assets/images/chessScreen.gif)
+![ChessGame Screenshot](assets/screenshots/chessScreen.gif)
 
 
 ---
