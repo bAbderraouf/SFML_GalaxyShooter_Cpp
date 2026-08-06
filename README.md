@@ -13,7 +13,7 @@ The player controls a spaceship that can move horizontally and shoot at enemies 
 > Add a screenshot or GIF of the game here.
 
 ```text
-![Galaxy Shooter Screenshot](assets/screenshots/Galaxy.gif)
+![Galaxy Shooter Screenshot](assets/images/Galaxy.gif)
 ```
 
 ---
